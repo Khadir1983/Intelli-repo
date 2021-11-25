@@ -2,3 +2,5 @@ This is my first git file
 newline
 change1 made by github user
 change made by Khadir
+change2 made by both users Khadir and github user
+
